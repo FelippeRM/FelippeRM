@@ -53,6 +53,6 @@ Desenvolvedor em formação, apaixonado por programação e atualmente focado em
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-felippe-rodrigues-maciel-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/felippe-rodrigues-maciel-44ab21387)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-felippe-rodrigues-maciel-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/felippe-rodrigues-maciel-44ab21387/)
 [![Gmail](https://img.shields.io/badge/Gmail-felipperodmaciel@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:felipperodmaciel@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-FelippeRM-181717?style=flat&logo=github)](https://github.com/FelippeRM)
