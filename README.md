@@ -45,8 +45,8 @@ Desenvolvedor em formação, apaixonado por programação e atualmente focado em
 ## 📊 GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FelippeRM&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelippeRM&layout=compact&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FelippeRM&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelippeRM&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
